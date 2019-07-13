@@ -22,3 +22,4 @@ feign:
   hystrix:
     enabled: true
 # 获取测试
+# 拉取测试
