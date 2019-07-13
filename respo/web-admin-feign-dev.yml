@@ -21,3 +21,4 @@ eureka:
 feign:
   hystrix:
     enabled: true
+# 获取测试
